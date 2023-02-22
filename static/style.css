@@ -1,0 +1,31 @@
+.nav{
+background-color: lightgrey;
+justify-content:center;
+padding-top: 15px;
+}
+.d-nav{
+margin-left:0px;
+width:100%;
+}
+.f-footer{
+display:flex;
+<!--justify-content:center;-->
+color: #adb5bd;
+height: 70px;
+}
+.firstlogo{
+border-radius: 5px;
+margin-left:5px;
+
+}
+.divimg{
+height:62px;
+padding-top: 4px;
+}
+.f-div{
+display:flex;
+background-color:lightgrey;
+height: 70px;
+}
+
+
