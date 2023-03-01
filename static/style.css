@@ -27,5 +27,17 @@ display:flex;
 background-color:lightgrey;
 height: 70px;
 }
-
+a.nav-link.active {
+    text-decoration-line: underline;
+}
+a.nav-link {
+    color: black;
+}
+.left-menu{
+margin-top:10px;
+width:20%;
+height:90%;
+background-color: lightgrey;
+border-radius: 15px;
+}
 
